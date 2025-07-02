@@ -1,0 +1,1 @@
+// Smooth scroll or animation enhancements can go here
